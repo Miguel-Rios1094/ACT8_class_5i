@@ -2,7 +2,8 @@
 ## Ejemplo perro
 - ![image](https://github.com/user-attachments/assets/fca50937-ae96-42da-b8d3-460eaf5cc710)
 - resultado
-- ![image](https://github.com/user-attachments/assets/5cf6037f-32ff-4e54-a8b6-9985d9a12473)
+- ![image](https://github.com/user-attachments/assets/f40da7c5-6383-4599-aa11-1903ef5ac071)
+
 
 ## Ejercicio
 - Codigo
